@@ -1,0 +1,13 @@
+---
+name: GitHub Logical Team Terraform module
+slug: team-membership
+namespace: github
+project: infraprints
+description: Describe a logical team for GitHub.
+license:
+  name: MIT
+tags:
+  - terraform
+  - terraform-module
+  - github
+  - github-teams
