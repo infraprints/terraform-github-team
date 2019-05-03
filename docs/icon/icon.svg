@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg847"
+   version="1.1"
+   viewBox="0 0 100 100"
+   height="100"
+   width="100">
+  <metadata
+     id="metadata853">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs851" />
+  <polygon
+     transform="matrix(0.79072909,0,0,0.79072909,9.8095739,10.300052)"
+     points="37.37,62.644 37.37,90.703 28.965,82.305 11.27,100 0,88.737 17.702,71.042 9.297,62.644 "
+     id="polygon835"
+     style="fill:#e15343;stroke-width:1.26465559" />
+  <polygon
+     transform="matrix(0.79072909,0,0,0.79072909,9.8095739,10.300052)"
+     points="82.305,71.042 90.703,62.644 62.649,62.644 62.644,90.703 71.042,82.305 88.743,100 100,88.737 "
+     id="polygon837"
+     style="fill:#e15343;stroke-width:1.26465559" />
+  <polygon
+     transform="matrix(0.79072909,0,0,0.79072909,9.8095739,10.300052)"
+     points="71.042,17.708 62.644,9.31 62.644,37.357 90.71,37.37 82.298,28.958 100,11.263 88.743,0 "
+     id="polygon839"
+     style="fill:#e15343;stroke-width:1.26465559" />
+  <polygon
+     transform="matrix(0.79072909,0,0,0.79072909,9.8095739,10.300052)"
+     points="37.376,9.297 28.971,17.708 11.27,0 0,11.276 17.702,28.958 9.303,37.37 37.357,37.37 "
+     id="polygon841"
+     style="fill:#e15343;stroke-width:1.26465559" />
+  <path
+     d="m 49.346028,40.179332 c -5.333467,0 -9.657174,4.324498 -9.657174,9.657174 0,5.343748 4.324498,9.668245 9.657174,9.668245 5.333469,0 9.66271,-4.324497 9.66271,-9.668245 0,-5.333467 -4.329241,-9.657174 -9.66271,-9.657174 z"
+     id="path843"
+     style="fill:#e15343;stroke-width:1" />
+</svg>
