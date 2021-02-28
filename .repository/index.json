@@ -1,0 +1,18 @@
+{
+  "slug": "terraform-github-team",
+  "namespace": "infraprints",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "terraform",
+    "terraform-module",
+    "github"
+  ],
+  "languages": [
+    "HCL"
+  ]
+}
